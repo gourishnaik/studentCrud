@@ -1,0 +1,13 @@
+.card{
+    width:450px;
+    height: 637px;
+    top:49%;
+    left:50%;
+    position: absolute;
+    box-sizing: border-box;
+    padding: 31px 40px;
+    border:1px solid white;
+    transform: translate(-50%,-50%);
+    color: white; 
+    background: black;
+}

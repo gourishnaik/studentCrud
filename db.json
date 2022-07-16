@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "jayesh",
+      "email": "jayesh@gmail.com",
+      "mobile": 8596857458,
+      "city": "mumbai"
+    },
+    {
+      "id": 3,
+      "name": "jeet",
+      "email": "jeet@gmail.com",
+      "mobile": 9696858574,
+      "city": "valsad"
+    },
+    {
+      "id": 4,
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "mobile": 85768986546,
+      "city": "bangaluru"
+    },
+    {
+      "id": 5,
+      "name": "akashay",
+      "email": "akashay@gmail.com",
+      "mobile": 8585857475,
+      "city": "panjim"
+    },
+    {
+      "id": 6,
+      "name": "kiran",
+      "email": "kiran7@gmail.com",
+      "mobile": 9657845789,
+      "city": "mumbai"
+    }
+  ],
+  "signup": [
+    {
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "mobile": 9658745692,
+      "password": "abcd",
+      "id": 1
+    },
+    {
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "mobile": 4152452414,
+      "password": "abcd",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
